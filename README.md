@@ -4,7 +4,7 @@
 
 #### Contents
 
-- Front-End
+- [Front-End](#front-end-things)
 - Gems
 - Test structure
 - What is pre-configured
