@@ -12,5 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require velocity
+//= require moment-with-locales
+//= require angular
+//= require lumx.min
+//= require main
 //= require_tree .
