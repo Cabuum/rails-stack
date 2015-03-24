@@ -33,7 +33,7 @@
    - [forgery][forgery]: *Easy and customizable generation of forged data.*
    - [awesome_print][awesome_print]: *Pretty print your Ruby objects with style -- in full color and with proper indentation*
    - [shoulda-matchers][shoulda-matchers]: *Collection of testing matchers extracted from Shoulda.*
-   - [capybara][capybara]: *https://github.com/jnicklas/capybara*
+   - [capybara][capybara]: *Acceptance test framework for web applications*
    - [database_cleaner][database_cleaner]: *Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.*
    
  - **Infraestructure**: 
@@ -60,7 +60,7 @@
    - [turbolinks][turbolinks]: *Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)*
 
  - **Tracking and Metrics**: 
-   - [codeclimate-test-reporter][codeclimate-test-reporter]: *lll*
+   - [codeclimate-test-reporter][codeclimate-test-reporter]: *Uploads Ruby test coverage data to Code Climate.*
    - [simplecov][simplecov]: *SimpleCov is a code coverage analysis tool for Ruby.*
 
 
@@ -90,7 +90,7 @@
 [awesome_print]: https://github.com/michaeldv/awesome_print
 [shoulda-matchers]: https://github.com/thoughtbot/shoulda-matchers
 [spring]: https://github.com/rails/spring
-[capybara]: https://github.com/jnicklas/capybara
+[capybara]: http://jnicklas.github.io/capybara
 [database_cleaner]: https://github.com/DatabaseCleaner/database_cleaner
 [simplecov]: https://github.com/colszowka/simplecov
 [codeclimate-test-reporter]: http://codeclimate.com
