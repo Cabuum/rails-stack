@@ -12,4 +12,4 @@
 !/log/.keep
 /tmp
 
-bower_components
+.bower_components
