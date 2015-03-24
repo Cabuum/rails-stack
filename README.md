@@ -1,4 +1,7 @@
 # Rails Stack
+![App Version](https://img.shields.io/badge/app%20version-1.1.3-brightgreen.svg)
+![Built With](https://img.shields.io/badge/built%20with-love-ff69b4.svg)
+![License MIT](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 *A pre configured Ruby on Rails stack to be a kick ass in your awesome projects*
 
