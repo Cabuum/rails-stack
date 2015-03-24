@@ -12,5 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//
+// Bower packages
+//= require velocity/velocity
+//= require moment/min/moment-with-locales
+//= require angular/angular
+//= require lumx/dist/lumx
+//
 //= require_tree .
