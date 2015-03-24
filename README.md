@@ -12,11 +12,11 @@
 
 ### Front-End things
 
- - **Javascript** libraries*: 
+ - **Javascript** libraries *: 
    - [angular.js][angular]: *HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications.*
    - [bower.js][bower]: *Bower manages all front-end things like css frameworks, javascript libraries, for you.*
    - [jquery.js][jquery]: *jQuery is a fast, small, and feature-rich JavaScript library.*
- - **CSS** frameworks*:
+ - **CSS** frameworks *:
    - [lumx][lumx]: *The first responsive front-end framework based on AngularJS & Google Material Design specifications.*
 
 \* Not described any dependency.
