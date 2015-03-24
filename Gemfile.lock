@@ -39,6 +39,8 @@ GEM
     arel (6.0.0)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bower (0.0.4)
+      multi_json
     builder (3.2.2)
     byebug (4.0.2)
       columnize (= 0.9.0)
@@ -145,6 +147,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bower
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)

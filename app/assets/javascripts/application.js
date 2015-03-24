@@ -12,5 +12,15 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//
+// Bower packages
+//= require velocity/velocity
+//= require moment/min/moment-with-locales
+//= require angular/angular
+//= require angular-resource/angular-resource
+//= require angular-route/angular-route
+//= require lumx/dist/lumx
+//= require main
+//= require angular/controllers/HomeCtrl
+//
 //= require_tree .

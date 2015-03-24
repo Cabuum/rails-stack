@@ -1,0 +1,22 @@
+{
+  "name": "rails-stack",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Cabuum/rails-stack",
+  "directory"  : "bower_components",
+   "dependencies": {
+    "lumx": "*",
+    "angular-route": "*",
+    "angular-resource": "*"
+  },
+  "authors": [
+    "Joridos <joridoss@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
