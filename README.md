@@ -18,6 +18,7 @@
    - [jquery.js][jquery]: *jQuery is a fast, small, and feature-rich JavaScript library.*
  - **CSS** frameworks *:
    - [lumx][lumx]: *The first responsive front-end framework based on AngularJS & Google Material Design specifications.*
+   - [grid][bootstrap-grid]: *We customized the bootstrap to only get the grid, use sparingly.*
 
 \* Not described any dependency.
 
@@ -25,3 +26,4 @@
 [bower]: https://bower.io/
 [lumx]: http://ui.lumapps.com/
 [jquery]: http://jquery.com/
+[bootstrap-grid]: http://getbootstrap.com/css/#grid
