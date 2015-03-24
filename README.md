@@ -1,6 +1,6 @@
 # Rails Stack
 
-*A Ruby on Rails stack to be used on start of projects!*
+*A pre configured Ruby on Rails stack to be a kick ass in your awesome projects*
 
 #### Contents
 
