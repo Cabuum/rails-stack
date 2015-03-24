@@ -32,16 +32,17 @@
    - [factory_girl_rails][factory_girl_rails]: *factory_girl is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies, and support for multiple factories for the same class, including factory inheritance.*
    - [forgery][forgery]: *Easy and customizable generation of forged data.*
    - [awesome_print][awesome_print]: *Pretty print your Ruby objects with style -- in full color and with proper indentation*
-   - [shoulda-matchers][shoulda-matchers]: *lll*
-   - [capybara][capybara]: *lll*
-   - [database_cleaner][database_cleaner]: *lll*
+   - [shoulda-matchers][shoulda-matchers]: *Collection of testing matchers extracted from Shoulda.*
+   - [capybara][capybara]: *https://github.com/jnicklas/capybara*
+   - [database_cleaner][database_cleaner]: *Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.*
    
  - **Infraestructure**: 
    - [rails][rails]: *Rails is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.*
    - [pg][pg]: *PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.*
    - [enumerate_it][enumerate_it]: *Enumerations for Ruby with some magic powers!*
    - [dotenv][dotenv]: *Loads environment variables from `.env`.*
-   - [devise][devise]: *Flexible authentication solution for Rails with Warden*
+   - [spring][spring]: *Rails application preloader.*
+   - [devise][devise]: *Flexible authentication solution for Rails with Warden.*
    - [unicorn][unicorn]: *Unicorn is an HTTP server for Rack applications designed to only serve fast clients on low-latency, high-bandwidth connections and take advantage of features in Unix/Unix-like kernels.*
 
  - **Form Helpers**: 
@@ -51,7 +52,7 @@
    - [jbuilder][jbuilder]: *Create JSON structures via a Builder-style DSL*
 
  - **Deployment and Production**: 
-   - [rails_12factor][rails_12factor]: *lll*
+   - [rails_12factor][rails_12factor]: *Makes running your Rails app easier. Based on the ideas behind 12factor.net*
 
  - **Front-end**: 
    - [uglifier][uglifier]: *Ruby wrapper for UglifyJS JavaScript compressor.*
@@ -59,9 +60,8 @@
    - [turbolinks][turbolinks]: *Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)*
 
  - **Tracking and Metrics**: 
-   - [simplecov][simplecov]: *lll*
    - [codeclimate-test-reporter][codeclimate-test-reporter]: *lll*
-   - [simplecov][simplecov]: *lll*
+   - [simplecov][simplecov]: *SimpleCov is a code coverage analysis tool for Ruby.*
 
 
 \* Not described any dependency.
@@ -87,11 +87,11 @@
 [rspec-rails]: https://github.com/rspec/rspec-rails
 [factory_girl_rails]: https://github.com/thoughtbot/factory_girl_rails
 [forgery]: https://github.com/sevenwire/forgery
-[awesome_print]: 
-[shoulda-matchers]: 
-[spring]: 
-[capybara]:
-[database_cleaner]:
-[simplecov]:
-[codeclimate-test-reporter]:
-[rails_12factor]:
+[awesome_print]: https://github.com/michaeldv/awesome_print
+[shoulda-matchers]: https://github.com/thoughtbot/shoulda-matchers
+[spring]: https://github.com/rails/spring
+[capybara]: https://github.com/jnicklas/capybara
+[database_cleaner]: https://github.com/DatabaseCleaner/database_cleaner
+[simplecov]: https://github.com/colszowka/simplecov
+[codeclimate-test-reporter]: http://codeclimate.com
+[rails_12factor]: https://github.com/heroku/rails_12factor
