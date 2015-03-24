@@ -12,8 +12,8 @@
  *
  * Bower
  *
- *= //require lumx/dist/lumx.css
- *= //require mdi/materialdesignicons.css
  *= require_tree .
+ *= require lumx/dist/lumx
+ *= require mdi/css/materialdesignicons
  *= require_self
  */
