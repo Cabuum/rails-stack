@@ -13,6 +13,7 @@
  * Bower
  *
  *= require_tree .
+ *= require grid
  *= require lumx/dist/lumx
  *= require mdi/css/materialdesignicons
  *= require_self
