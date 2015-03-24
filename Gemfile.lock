@@ -50,6 +50,7 @@ GEM
       execjs
     coffee-script-source (1.9.1)
     columnize (0.9.0)
+    dotenv (2.0.0)
     erubis (2.7.0)
     execjs (2.4.0)
     globalid (0.3.3)
@@ -132,6 +133,7 @@ PLATFORMS
 DEPENDENCIES
   bower
   byebug
+  dotenv
   jbuilder (~> 2.0)
   pg
   rails (= 4.2.0)

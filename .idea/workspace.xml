@@ -2,548 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89e4da4e-2d69-4975-99aa-6bfc318737d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/images/apple-touch-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/images/apple-touch-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/images/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/fonts/materialdesignicons-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/fonts/materialdesignicons-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/fonts/materialdesignicons-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/fonts/materialdesignicons-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/Data.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../interactive-event/app/assets/javascripts/angular/controllers/HomeController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/Moment.js.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/scss/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/stylus/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/meteor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_appearance.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/settings/_asset-pipeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_assign-inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_backface-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_background-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/objects/_bare-list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/objects/_bare-list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_blockquotes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_blockquotes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_border-color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_border-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_border-style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_border-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/_bourbon-deprecated-upcoming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/_bourbon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/_bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/generic/_box-sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/generic/_box-sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/button/scss/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_calc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/card/scss/_card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_checkbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/checkbox/scss/_checkbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/base/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/settings/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/base/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/settings/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_columns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_contains-falsy.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_contains.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_convert-units.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_data-table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/data-table/scss/_data-table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_date-picker.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/date-picker/scss/_date-picker.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/settings/_defaults.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/settings/_defaults.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/_desktop-styles.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/_desktop-styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_dialog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dialog/scss/_dialog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_directional-values.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/objects/_divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/objects/_divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dropdown/scss/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_ellipsis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_fab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/fab/scss/_fab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_file-input.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/file-input/scss/_file-input.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_flex-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_flexbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/flexbox/scss/_flexbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_font-face.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_font-feature-settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_font-source-declaration.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_font-stacks.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/scss/jeet/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/tools/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/tools/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/stylus/jeet/_functions.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_global.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_gradient-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/scss/jeet/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/stylus/jeet/_grid.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_helpers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/trumps/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/trumps/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_hidpi-media-query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_hyphens.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_icon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/icon/scss/_icon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_image-rendering.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/base/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/base/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_is-length.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_is-light.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_is-number.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_is-size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/animations/_jelly.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/animations/_jelly.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_keyframes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_linear-angle-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_linear-gradient-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_linear-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_linear-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_linear-side-corner-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/list/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_lists.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/_lumx.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/_lumx.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_margin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/tools/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/tools/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_mobile-grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_mobile-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/_mobile-styles.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/_mobile-styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_modular-scale.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/generic/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/generic/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_notification.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/notification/scss/_notification.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_padding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/base/_page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/base/_page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/base/_paragraph.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/base/_paragraph.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_perspective.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_placeholder.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/settings/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/progress/scss/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/settings/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_px-to-rem.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_radial-arg-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_radial-gradient-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_radial-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_radial-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_radio-button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/radio-button/scss/_radio-button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_render-gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/generic/_reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/generic/_reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_resets.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_resets.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/settings/_responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/tools/_responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/settings/_responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/tools/_responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_retina-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/animations/_ripple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/animations/_ripple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_ripple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/ripple/scss/_ripple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_scrollbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/scrollbar/scss/_scrollbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_search-filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/search-filter/scss/_search-filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/select/scss/_select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_selection.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/scss/jeet/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/stylus/jeet/_settings.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_shade.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_shape-size-stripper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/trumps/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/trumps/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/animations/_spin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/animations/_spin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/helpers/_str-to-num.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_strip-units.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/switch/scss/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_tablet-grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_tablet-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/_tablet-styles.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/_tablet-styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/tabs/scss/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_text-decoration.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_text-field.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/text-field/scss/_text-field.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_text-inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_timing-functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_tint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_toolbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/toolbar/scss/_toolbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/modules/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/tooltip/scss/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_transform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_transition-property-name.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_transition.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_triangle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/base/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/base/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/functions/_unpack.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/css3/_user-select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/base/_variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/base/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/trumps/_widths.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/trumps/_widths.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/app/assets/stylesheets/addons/_word-wrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/scss/objects/_z-depth.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/scss/objects/_z-depth.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ar-ma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ar-sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ar-tn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/dist/barebones-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/dist/barebones-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/bluebird.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/bourbon/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/changelog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/benchmarks/clone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/cv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/var/data_priv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/var/data_user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/date-picker/views/date-picker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/date-picker/js/date-picker_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/de-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/js/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dialog/js/dialog_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dropdown/views/dropdown-menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dropdown/views/dropdown-toggle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dropdown/views/dropdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/dropdown/js/dropdown_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/meteor/export.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/file-input/views/file-input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/file-input/js/file-input_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/fy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/hy-am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/scss/jeet/index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/stylus/jeet/index.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/stylus/jeet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/jquery-1.4.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/min/locales.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/min/locales.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/lumx.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/js/lumx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/lumx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/dist/lumx.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/fonts/materialdesignicons-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/css/materialdesignicons.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/css/materialdesignicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/css/materialdesignicons.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/css/materialdesignicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/scss/materialdesignicons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/min/moment-with-locales.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/min/moment-with-locales.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/min/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ms-my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/nn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/notification/js/notification_service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/scripts/npm_prepublish.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-resource/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-route/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/barebones-grid/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jeet/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/mdi/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/progress/views/progress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/progress/js/progress_service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/q.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/qunit-1.14.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/qunit-1.14.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/ripple/js/ripple_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/scrollbar/js/scrollbar_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/search-filter/views/search-filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/search-filter/js/search-filter_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/select/views/select-choices.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/select/views/select-selected.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/select/views/select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/select/js/select_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/sr-cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/less/style.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/base/scss/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/tabs/views/tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/tabs/views/tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/tabs/js/tabs_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/meteor/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/text-field/views/text-field.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/text-field/js/text-field_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/thumbnail/js/thumbnail_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/tl-ph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/modules/tooltip/js/tooltip_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/js/utils/transclude-replace_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/lumx/core/js/utils/transclude_directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/tzm-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/tzm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/uz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/velocity.ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/velocity.ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/when.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/velocity/test/zepto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/moment/locale/zh-tw.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/home.coffee" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="$PROJECT_DIR$/.bowerrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/Gemfile.lock" afterPath="$PROJECT_DIR$/../interactive-event/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
@@ -552,11 +11,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/../interactive-event/app/assets/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../interactive-event/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/../interactive-event/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/config/application.rb" afterPath="$PROJECT_DIR$/../interactive-event/config/application.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/../interactive-event/app/views/welcome/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../interactive-event/app/views/devise/sessions/new.html.erb" afterPath="$PROJECT_DIR$/../interactive-event/app/views/devise/sessions/new.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rails-stack.iml" afterPath="$PROJECT_DIR$/.idea/rails-stack.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rails-stack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -582,31 +42,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4" vertical-offset="0" max-vertical-offset="576">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19936709" vertical-offset="0" max-vertical-offset="632">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="540">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -623,7 +73,6 @@
         <option value="$PROJECT_DIR$/config/database.example.yml" />
         <option value="$PROJECT_DIR$/spec/rails_helper.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/../interactive-event/spec/controllers/events_controller_spec.rb" />
         <option value="$PROJECT_DIR$/../interactive-event/.bowerrc" />
         <option value="$PROJECT_DIR$/../interactive-event/config/application.rb" />
@@ -665,9 +114,11 @@
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/.bowerrc" />
-        <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.env" />
       </list>
     </option>
   </component>
@@ -717,7 +168,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rails-stack" />
+              <option name="myItemId" value="interactive-event" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -728,28 +179,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rails-stack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rails-stack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rails-stack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -952,7 +381,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26439393" sideWeight="0.49925926" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26439393" sideWeight="0.49925926" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -960,7 +389,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4888889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4888889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924242" sideWeight="0.50074077" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1016,20 +445,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.2.1/bundler/gems/notifications-ca844cc67160/app/models/notifications/message.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027906977" vertical-offset="0" max-vertical-offset="645">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../is/repense-asi/lib/templates/rails/scaffold_controller/controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5023256" vertical-offset="0" max-vertical-offset="954">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../is/repense-asi/spec/support/factories/account_centers.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.055813953" vertical-offset="0" max-vertical-offset="645">
@@ -1322,14 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.058252428" vertical-offset="0" max-vertical-offset="618">
@@ -1354,14 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="540">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55813956" vertical-offset="0" max-vertical-offset="645">
@@ -1370,18 +769,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23300971" vertical-offset="0" max-vertical-offset="618">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+        <state vertical-scroll-proportion="0.6139535" vertical-offset="0" max-vertical-offset="645">
           <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../interactive-event/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19936709" vertical-offset="0" max-vertical-offset="632">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../interactive-event/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13953489" vertical-offset="0" max-vertical-offset="645">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4" vertical-offset="0" max-vertical-offset="576">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>

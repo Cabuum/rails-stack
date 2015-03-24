@@ -5,7 +5,7 @@ gem 'pg'
 gem 'uglifier', '>= 1.3.0'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
-
+gem 'dotenv'
 gem 'unicorn'
 
 group :development, :test do
@@ -13,4 +13,3 @@ group :development, :test do
   gem 'byebug'
   gem 'spring'
 end
-
