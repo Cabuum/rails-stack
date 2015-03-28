@@ -13,7 +13,7 @@ source 'https://rubygems.org' do
   gem 'turbolinks'
   gem 'jbuilder', '~> 2.0'
   gem 'dotenv'
-  gem 'unicorn'
+  gem 'passenger'
 
   group :development, :test do
     gem 'bower'
