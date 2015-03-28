@@ -1,1 +1,0 @@
-var RailsStack = angular.module('RailsStack', ['ngRoute', 'ngResource', 'lumx']);
