@@ -80,9 +80,10 @@
 
  - To use the Continuous Integration provided by [TravisCI][travis] you'll need to:
  - Log-In with your GitHub account -> Then access your repo's list: https://travis-ci.org/profile/YOUR_USERNAME and add one -> Click in the gear icon (settings) for your chosed repo and change the settings to this: 
- 
-file:///home/bruno/Desktop/to_this.png
 
+### Heroku
+
+ - Log in Heroku page -> Add a new app with a simple name like myapp -> and run inside the root app: `gem install travis` -> `travis setup heroku --force` :+1:
 
 
 [angular]: https://angularjs.org/
