@@ -11,6 +11,7 @@
 - [Gems](#gems-for)
 - Test structure
 - What is pre-configured
+- [First steps to do the magic!](#first-steps-to-do-the-magic)
  
 
 ### Front-End things *
@@ -66,6 +67,24 @@
 
 \* Not described any dependency.
 
+
+## First Steps to do the Magic!
+
+### CodeClimate
+
+ - Adding your repo to CodeClimate and setting up the test coverage: 
+   - Log-In with your GitHub account -> Add OpenSource Repo -> type your github repo name like -> 
+   - Go to settings on tab "Test Coverage" copy the token and put on `.travis.yml` file on key called `repo_token`
+
+### Travis CI
+
+ - To use the Continuous Integration provided by [TravisCI][travis] you'll need to:
+ - Log-In with your GitHub account -> Then access your repo's list: https://travis-ci.org/profile/YOUR_USERNAME and add one -> Click in the gear icon (settings) for your chosed repo and change the settings to this: 
+ 
+file:///home/bruno/Desktop/to_this.png
+
+
+
 [angular]: https://angularjs.org/
 [bower]: https://bower.io/
 [lumx]: http://ui.lumapps.com/
@@ -95,3 +114,4 @@
 [simplecov]: https://github.com/colszowka/simplecov
 [codeclimate-test-reporter]: http://codeclimate.com
 [rails_12factor]: https://github.com/heroku/rails_12factor
+[travis]: https://travis-ci.org/
