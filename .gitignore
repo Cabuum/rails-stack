@@ -1,8 +1,9 @@
-Gemfile.lock
 *.swp
 *.*~
 /.bundle
-.env
+/config/env/development.env
+/config/env/test.env
+/config/env/production.env
 /log/*.log
 /tmp
 db/*.sqlite3

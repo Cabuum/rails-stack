@@ -12,11 +12,14 @@ source 'https://rubygems.org' do
   gem 'responders', '~> 2.0.2'
   gem 'turbolinks'
   gem 'jbuilder', '~> 2.0'
-  gem 'dotenv'
+  gem 'sass'
+  gem 'cancancan', '~> 1.10'
   gem 'passenger'
 
   group :development, :test do
-    gem 'bower'
+    gem 'parallel_tests'
+
+    gem 'dotenv'
     gem 'byebug'
     gem 'rspec-rails', '~> 3.1.0'
     gem 'factory_girl_rails', '~> 4.0'
@@ -28,6 +31,10 @@ source 'https://rubygems.org' do
     gem 'database_cleaner'
     gem 'simplecov', require: false
     gem 'codeclimate-test-reporter', require: false
+  end
+
+  group :production do
+    gem 'rails_12factor'
   end
 end
 

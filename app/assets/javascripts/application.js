@@ -10,6 +10,7 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require materialize
+//= require_self
 //= require jquery
+//= require materialize
 //= require_tree .
